@@ -69,7 +69,7 @@ Prior to wet-lab execution, the entire cloning strategy was simulated and valida
 ## 💬 Contact of Discussion
 
 •	**Project Author**: Abdulaziz Khaled
-                    ![image](https://github.com/abdulaziz-khaled/Structure-Based-Protein-Design-and-Allosteric-Site-Identification-of-Thyroid-Peroxidase-TPO/blob/main/IMG_4323.png)
+                    ![image](https://github.com/abdulaziz-khaled/From-Protein-Design-to-In-Silico-Cloning/blob/main/IMG_4323.png)
    
 •	**GitHub**: https://github.com/abdulaziz-khaled￼
 
