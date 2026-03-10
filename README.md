@@ -22,8 +22,9 @@ To prepare the human TPO for yeast expression and subsequent purification, the w
 
 ![image](https://github.com/abdulaziz-khaled/From-Protein-Design-to-In-Silico-Cloning/blob/main/IMG_4346.jpeg)
     
-    * Energy minimization was performed using **MOE (Molecular Operating Environment)** to resolve steric clashes.
-    * Structural integrity was validated via the **SAVES server**. The Ramachandran plot confirmed excellent stereochemical quality (favorable dihedral angles), and analysis verified that the C-terminal His-tag does not interfere with the native protein folding.
+   * Energy minimization was performed using **MOE (Molecular Operating Environment)** to resolve steric clashes.
+
+   * Structural integrity was validated via the **SAVES server**. The Ramachandran plot confirmed excellent stereochemical quality (favorable dihedral angles), and analysis verified that the C-terminal His-tag does not interfere with the native protein folding.
 
 
 ---
