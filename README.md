@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project outlines the comprehensive *in silico* pipeline for the design, optimization, and cloning of the human Thrombopoietin (TPO) protein for heterologous expression in the methylotrophic yeast *Komagataella pastoris* (formerly *Pichia pastoris*). The workflow encompasses three main phases: Human Protein Design & Modeling, Gene Construction & Codon Optimization, and *In Silico* Restriction-Based Cloning.
 
+![image](https://github.com/abdulaziz-khaled/From-Protein-Design-to-In-Silico-Cloning/blob/main/IMG_4348.jpeg)
+
 ---
 
 ## 🔬 Phase 1: Human Protein Design & Structural Validation
