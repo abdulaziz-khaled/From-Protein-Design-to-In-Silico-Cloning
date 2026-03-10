@@ -1,4 +1,4 @@
-# Engineering and In Silico Cloning of Human Thrombopoietin (TPO) for Expression in Pichia pastoris
+# Engineering and In Silico Cloning of Human Protien (TPO) for Expression in Pichia pastoris
 
 ## 📌 Project Overview
 This project outlines the comprehensive *in silico* pipeline for the design, optimization, and cloning of the human Thrombopoietin (TPO) protein for heterologous expression in the methylotrophic yeast *Komagataella pastoris* (formerly *Pichia pastoris*). The workflow encompasses three main phases: Human Protein Design & Modeling, Gene Construction & Codon Optimization, and *In Silico* Restriction-Based Cloning.
