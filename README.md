@@ -33,7 +33,7 @@ To prepare the human TPO for yeast expression and subsequent purification, the w
 
 The validated amino acid sequence was reverse-translated into a 2766 bp DNA sequence. To maximize translational efficiency in *K. pastoris*, the sequence was optimized using the **GenSmart™ Codon Optimization Tool (Beta 1.0)**.
 
-### Technical Report: NC Gene Optimization
+### Technical Report: TPO Gene Optimization
 *Analysis Date: March 9, 2026*
 
 **1. GC Content Comparative Analysis**
