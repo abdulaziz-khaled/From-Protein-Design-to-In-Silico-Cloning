@@ -69,6 +69,7 @@ Prior to wet-lab execution, the entire cloning strategy was simulated and valida
     1.  Flawless integration at the specified restriction sites.
     2.  An intact Open Reading Frame (ORF). The mature TPO sequence is correctly maintained in-frame with the upstream $\alpha$-factor secretion signal, ensuring accurate post-translational processing and secretion by the yeast host.
 
+![image](https://github.com/abdulaziz-khaled/From-Protein-Design-to-In-Silico-Cloning/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-10%20210249.png)
 
 ---
 ## 💬 Contact of Discussion
