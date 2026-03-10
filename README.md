@@ -13,6 +13,10 @@ To prepare the human TPO for yeast expression and subsequent purification, the w
     * *Probability:* 99.98%
     * *Cleavage Site:* Between amino acids 18 and 19.
     * *Outcome:* Residues 1–18 were cleaved to obtain the mature pro-protein. This ensures compatibility with the yeast's native secretion machinery (e.g., the $\alpha$-factor secretion signal present in the expression vector).
+
+![image](https://github.com/abdulaziz-khaled/From-Protein-Design-to-In-Silico-Cloning/blob/main/IMG_4347.jpeg)
+
+
 * **Tag Addition:** A 6xHis-tag was fused to the C-terminus of the mature sequence to facilitate downstream affinity chromatography purification and immunodetection.
 * **Ab Initio Modeling & Validation:** * The 3D structure of the engineered protein was predicted using **AlphaFold**.
     * Energy minimization was performed using **MOE (Molecular Operating Environment)** to resolve steric clashes.
